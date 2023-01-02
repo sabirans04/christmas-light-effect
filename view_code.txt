@@ -1,5 +1,5 @@
 <style>
-/* Source Copied From https://github.com/sabirans04 */
+/* Source code by ://github.com/sabirans04 */
 
 .particle-snow {
 	position: fixed;
@@ -127,7 +127,7 @@
 </style>
 <nav class="navbar navbar-default navbar-static-top"></nav>
 
-<script type="text/javascript" src="https://cdn.mypanel.link/global/pnl24maick8i2jzj.js">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/sabirans04/christmas-light-effect/script.js">
       </script>
 
 <script type="text/javascript" >
