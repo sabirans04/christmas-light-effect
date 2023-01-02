@@ -1,7 +1,7 @@
 # christmas-light-effect
 Christmas light efect for your website. 
 <p align="center">
-  <img src="https://i.postimg.cc/zXghkwsF/81ace343-0f6c-49c8-96b7-0d8524ae397d.gif" width="470" height="150">
+  <img src="https://i.postimg.cc/zXghkwsF/81ace343-0f6c-49c8-96b7-0d8524ae397d.gif" width="1137" height="653">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
