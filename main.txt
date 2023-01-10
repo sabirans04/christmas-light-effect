@@ -1,5 +1,7 @@
 <div>
 
+<!-- free source code from https://github.com/sabirans04 -->
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sabirans04/christmas-light-effect/assets/style.css">
 
 <nav class="navbar navbar-default navbar-static-top"></nav>
@@ -24,4 +26,7 @@
    newYearEvent.start()
 });
 </script>
+
+<!-- free source code from https://github.com/sabirans04 -->
+
 </div>
