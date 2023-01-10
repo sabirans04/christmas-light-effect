@@ -1,5 +1,10 @@
 /* Source code by https://github.com/sabirans04 */
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .particle-snow {
 	position: fixed;
 	top: 0;
